@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,part=origin": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=north,part=file": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=north,part=rank": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=north,part=corner": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=east,part=origin": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=east,part=file": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=east,part=rank": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=east,part=corner": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=south,part=origin": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=south,part=file": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=south,part=rank": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=south,part=corner": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=west,part=origin": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=west,part=file": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=west,part=rank": { "model": "chinese_chess:block/xiangqi_board" },
+    "facing=west,part=corner": { "model": "chinese_chess:block/xiangqi_board" }
+  }
+}

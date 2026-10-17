@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chinese_chess",
+  "pattern": [
+    "RSI",
+    "PPP"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "S": {
+      "tag": "minecraft:wooden_buttons"
+    },
+    "I": {
+      "item": "minecraft:black_dye"
+    },
+    "P": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "id": "chinese_chess:xiangqi_board",
+    "count": 1
+  }
+}

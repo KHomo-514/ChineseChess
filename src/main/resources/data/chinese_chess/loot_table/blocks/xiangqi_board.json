@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "chinese_chess:blocks/xiangqi_board",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chinese_chess:xiangqi_board"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}
